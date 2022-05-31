@@ -10085,7 +10085,7 @@ New Main Banner Area CSS
 
 .new-main-banner-content h1 {
   /*font-size: 80px;*/
-  font-size: 40px;
+  font-size: 55px;
   margin-bottom: 25px;
   color: #ffffff;
 }
@@ -10589,6 +10589,7 @@ Complete Website Security Area CSS
   z-index: 1;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
+  min-height:500px;
 }
 
 .complete-website-security-card.with-white-color {
@@ -10639,7 +10640,7 @@ Complete Website Security Area CSS
 
 .complete-website-security-card h3 {
   margin-bottom: 15px;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 .complete-website-security-card h3 a {
@@ -10788,7 +10789,8 @@ Funfacts Style Two Area CSS
 
 .single-funfacts-card h3 {
   line-height: 1;
-  font-size: 55px;
+  /*font-size: 55px;*/
+  font-size: 45px;
   margin-bottom: 10px;
   color: #ffffff;
 }
@@ -10991,6 +10993,7 @@ Testimonials Wrap Area CSS
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   overflow: hidden;
+  min-height:330px;
 }
 
 .single-testimonials-card::after {
@@ -11009,7 +11012,7 @@ Testimonials Wrap Area CSS
 .single-testimonials-card p {
   color: #ffffff;
   margin-bottom: 0;
-  font-size: 18px;
+  font-size: 13px;
 }
 
 .single-testimonials-card .client-info {
@@ -11017,7 +11020,7 @@ Testimonials Wrap Area CSS
 }
 
 .single-testimonials-card .client-info h3 {
-  font-size: 22px;
+  font-size: 18px;
   margin-bottom: 0;
   color: #ffffff;
 }
