@@ -903,7 +903,13 @@
   }
   .new-main-banner-image {
     height: 550px;
+	background-size: contain;
   }
+    .new-main-banner-image2 {
+    height: 550px;
+  }
+  
+  
   .new-main-home-slides.owl-theme .owl-nav {
     position: absolute;
     right: 35px;
@@ -2014,7 +2020,19 @@
   }
   .new-main-banner-image {
     height: 550px;
+	
+	
   }
+  
+
+  
+  
+  .new-main-banner-image2 {
+    height: 550px;
+	
+  }
+  
+  
   .new-main-home-slides.owl-theme .owl-nav {
     position: absolute;
     right: 35px;
