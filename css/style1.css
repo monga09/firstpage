@@ -3883,7 +3883,7 @@ Contact Info Area Style
 }
 
 .services-details-info .services-contact-info {
-  background-color: #ffffff;
+  background-color: #b2f2ff;
   border: 1px solid #eeeeee;
   margin-bottom: 30px;
   padding: 30px;
@@ -10344,8 +10344,9 @@ New Main Banner Area CSS
 }
 
 .new-main-banner-area-with-black-color {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  /*padding-top: 50px;
+  padding-bottom: 50px;*/
+  padding:0px;
   position: relative;
   z-index: 1;
   overflow: hidden;
