@@ -10195,8 +10195,8 @@ New Main Banner Area CSS
   top: 0;
   height: 100%;
   width: 100%;
-  background: #010A32;
-  opacity: .50;
+ /* background: #010A32;
+  opacity: .50;*/
 }
 
 .new-main-home-slides.owl-theme .owl-nav {
@@ -12245,3 +12245,8 @@ Cyber Defenses Area CSS
 }
 
 /*New CSS start*/
+
+
+p.wow.fadeInRight.animated {
+    font-size: 17px;
+}
