@@ -369,10 +369,10 @@
 			$('.new-main-home-slides').owlCarousel({
 				loop: true,
 				margin:0,
-				nav: true,
+				nav: false,
 				mouseDrag: true,
 				items: 1,
-				dots: false,
+				dots: true,
 				autoHeight: true,
 				autoplay: true,
 				animateIn: 'fadeIn',
