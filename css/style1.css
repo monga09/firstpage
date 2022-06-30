@@ -10171,7 +10171,7 @@ New Main Banner Area CSS
 
 
 
-
+.bg_contain{ background-size: contain;}
 
 
 
@@ -10445,7 +10445,9 @@ Seku Features Area CSS
 }
 
 .single-seku-features-card {
-  background-color: #000000;
+  background-color: #545454;
+  
+  
   padding: 35px 30px 30px 30px;
   position: relative;
   z-index: 1;
@@ -10620,7 +10622,7 @@ Complete Website Security Area CSS
 
 .complete-website-security-card {
   /*background-color: #382549;*/
-  background-color: #000;
+  background-color: #545454;
   padding: 30px;
   position: relative;
   z-index: 1;
@@ -11025,7 +11027,9 @@ Testimonials Wrap Area CSS
 
 .single-testimonials-card {
   /*background: #251533;*/
-   background:#000; 
+   background:#545454; 
+   
+   
   padding: 35px;
   position: relative;
   z-index: 1;
